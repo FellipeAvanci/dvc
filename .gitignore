@@ -10,6 +10,7 @@ cache
 .DS_Store
 build/
 dist/
+out
 
 *.egg-info/
 
